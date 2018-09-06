@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nyverk/CLionProjects/untitled/busquedaSecuencial.h
+
+/home/nyverk/CLionProjects/untitled/main.cpp
+iostream
+-
+busquedaSecuencial.h
+/home/nyverk/CLionProjects/untitled/busquedaSecuencial.h
+
